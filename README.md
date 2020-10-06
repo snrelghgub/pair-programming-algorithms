@@ -10,3 +10,6 @@ This is our repository containing algorithms we pair programmed together during 
 
 ### [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
 [our solution](https://github.com/yumip/pair-programming-algorithms/blob/main/positiveSum.js)
+
+### [Scrabble Score](https://www.codewars.com/kata/558fa34727c2d274c10000ae)
+[our solution](https://github.com/yumip/pair-programming-algorithms/blob/main/scrabbleScore.js)
