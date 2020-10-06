@@ -7,3 +7,6 @@ This is our repository containing algorithms we pair programmed together during 
 
 ### [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c/javascript)<br>
 [our solution](https://github.com/yumip/pair-programming-algorithms/blob/main/binaryArrayToNumber.js)
+
+### [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
+[our solution](https://github.com/yumip/pair-programming-algorithms/blob/main/positiveSum.js)
